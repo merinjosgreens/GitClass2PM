@@ -37,6 +37,15 @@ public class Company {
 		System.out.println("B edited line 6");
 		System.out.println("B edited line 7");
 		System.out.println("B edited line 8");
+		System.out.println("some new line have been added by A");
+		System.out.println("some new line have been added by A");
+		System.out.println("some new line have been added by A");
+		System.out.println("some new line have been added by A");
+		System.out.println("some new line have been added by A");
+		System.out.println("some new line have been added by A");
+		System.out.println("some new line have been added by A");
+		System.out.println("some new line have been added by A");
+
 	}
 
 	@AfterClass // after execution all test methods it will get execute only one time
