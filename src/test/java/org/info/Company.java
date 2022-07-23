@@ -29,6 +29,14 @@ public class Company {
 		System.out.println("line 2 added by A branch");
 		System.out.println("line 3 added by A branch");
 		System.out.println("line 4 added by A branch");
+		System.out.println("B edited line 1");
+		System.out.println("B edited line 2");
+		System.out.println("B edited line 3");
+		System.out.println("B edited line 4");
+		System.out.println("B edited line 5");
+		System.out.println("B edited line 6");
+		System.out.println("B edited line 7");
+		System.out.println("B edited line 8");
 		System.out.println("some new line have been added by A");
 		System.out.println("some new line have been added by A");
 		System.out.println("some new line have been added by A");
