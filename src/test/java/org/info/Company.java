@@ -25,7 +25,14 @@ public class Company {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.facebook.com/");
-
+		System.out.println("B edited line 1");
+		System.out.println("B edited line 2");
+		System.out.println("B edited line 3");
+		System.out.println("B edited line 4");
+		System.out.println("B edited line 5");
+		System.out.println("B edited line 6");
+		System.out.println("B edited line 7");
+		System.out.println("B edited line 8");
 	}
 
 	@AfterClass // after execution all test methods it will get execute only one time
